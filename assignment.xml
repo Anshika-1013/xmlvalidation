@@ -1,0 +1,50 @@
+<employees>
+    <employee>
+      <personal>
+        <first_name>Anshika</first_name>
+        <last_name>yadav</last_name>
+        <date_of_birth>2002/12/25</date_of_birth>
+        <gender>female</gender>
+      </personal>
+      <employment>
+        <position>Software Engineer</position>
+        <salary>100000</salary>
+      </employment>
+      <contact>
+        <email>anshika.y@gmail.com</email>
+        <phone_number>123-456-7890</phone_number>
+      </contact>
+    </employee>
+    <employee>
+      <personal>
+        <first_name>shikha</first_name>
+        <last_name>agrwal</last_name>
+        <date_of_birth>1985-10-20</date_of_birth>
+        <gender>Female</gender>
+      </personal>
+      <employment>
+        <position>Marketing Manager</position>
+        <salary>75000</salary>
+      </employment>
+      <contact>
+        <email>mm.y@rediffmailcom</email>
+        <phone_number>987-654-3210</phone_number>
+      </contact>
+    </employee>
+    <employee>
+      <personal>
+        <first_name>Muskan</first_name>
+        <last_name>gupta</last_name>
+        <date_of_birth>1988-03-08</date_of_birth>
+        <gender>female</gender>
+      </personal>
+      <employment>
+        <position>Financial Analyst</position>
+        <salary>70000</salary>
+      </employment>
+      <contact>
+        <email>muskan.gupta@example.com</email>
+        <phone_number>555-123-4567</phone_number>
+      </contact>
+    </employee>
+</employees>
